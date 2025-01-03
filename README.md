@@ -1,9 +1,3 @@
-devgreek: create a docs for the readme 
-
-Workspace: Collecting workspace information
-
-Sure, here is an updated 
-
 README.md
 
  file with more detailed documentation:
